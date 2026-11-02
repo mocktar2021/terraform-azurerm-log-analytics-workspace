@@ -1,0 +1,2 @@
+# No checks are skipped by default.
+skip-check: []
